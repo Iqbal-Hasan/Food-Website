@@ -1,0 +1,1016 @@
+[
+  {
+    "name": "Spaghetti Bolognese",
+    "image": "https://i.ibb.co/47Gbt7k/beef-and-porcini-spaghetti-bolognese-f3e87fc8ceeedfe5ebe0e1665d3a4ba4.jpg",
+    "category": "Italian",
+    "quantity": 2,
+    "price": 1290,
+    "email": "jhondeo@gmail.com",
+    "foodOrigin": "Italy",
+    "ingredients": "Ground beef, Onion, Garlic, Carrot, Celery, Olive oil, Tomato paste, Canned tomatoes, Bay leaves, Dried oregano, Dried basil, Salt, Black pepper, Sugar, Spaghetti, Parmesan cheese",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Finely chop the onion, garlic, carrot, and celery."
+      },
+      {
+        "step": 2,
+        "instruction": "Heat a large pot or skillet over medium heat."
+      },
+      {
+        "step": 3,
+        "instruction": "Add olive oil and chopped vegetables. Cook for 5-7 minutes until softened."
+      },
+      {
+        "step": 4,
+        "instruction": "Add ground beef, cook until browned."
+      },
+      {
+        "step": 5,
+        "instruction": "Stir in tomato paste, cook for 2 minutes. Add canned tomatoes."
+      },
+      {
+        "step": 6,
+        "instruction": "Pour in red wine (if using), add bay leaves, oregano, basil, salt, pepper, and sugar."
+      },
+      {
+        "step": 7,
+        "instruction": "Cover, simmer for at least 30 minutes."
+      },
+      {
+        "step": 8,
+        "instruction": "In a separate pot, cook spaghetti until al dente. Drain."
+      },
+      {
+        "step": 9,
+        "instruction": "Serve sauce over spaghetti."
+      },
+      {
+        "step": 10,
+        "instruction": "Garnish with Parmesan cheese if desired."
+      }
+    ],
+    "orderCount": 10,
+    "rating": 5
+  },
+  {
+    "name": "Chicken Stir Fry",
+    "image": "https://i.ibb.co/HqL92Sb/240708-broccoli-and-chicken-stir-fry-DDMFS-4x3-27886203cb2744f99d15247496019942.jpg",
+    "category": "Chinese",
+    "quantity": 3,
+    "price": 1023,
+    "email": "jhondeo@gmail.com",
+    "foodOrigin": "China",
+    "ingredients": "Chicken breast, Soy sauce, Cornstarch, Sesame oil, Ginger, Garlic, Bell peppers, Broccoli florets, Carrots, Snow peas, Green onions, Vegetable oil, Rice",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Slice the chicken breast into thin strips."
+      },
+      {
+        "step": 2,
+        "instruction": "In a bowl, combine the sliced chicken, soy sauce, and cornstarch. Mix well and let it marinate for at least 15 minutes."
+      },
+      {
+        "step": 3,
+        "instruction": "In a small bowl, mix together soy sauce, sesame oil, ginger, and minced garlic. Set aside."
+      },
+      {
+        "step": 4,
+        "instruction": "Heat a large skillet or wok over high heat. Add vegetable oil."
+      },
+      {
+        "step": 5,
+        "instruction": "Add marinated chicken and stir-fry for 2-3 minutes, or until cooked through. Remove from the pan and set aside."
+      },
+      {
+        "step": 6,
+        "instruction": "In the same pan, add more oil if needed. Add bell peppers, broccoli florets, carrots, and snow peas. Stir-fry for 3-4 minutes, or until vegetables are tender-crisp."
+      },
+      {
+        "step": 7,
+        "instruction": "Return the cooked chicken to the pan with the vegetables."
+      },
+      {
+        "step": 8,
+        "instruction": "Pour the prepared sauce over the chicken and vegetables. Stir-fry for an additional 2 minutes to heat everything through."
+      },
+      {
+        "step": 9,
+        "instruction": "Add sliced green onions and stir briefly."
+      },
+      {
+        "step": 10,
+        "instruction": "Serve the Chicken Stir Fry over rice if desired."
+      }
+    ],
+    "orderCount": 15,
+    "rating": 4.2
+  },
+  {
+    "name": "Margherita Pizza",
+    "image": "https://i.ibb.co/3SP3prJ/margherita-pizza.jpg",
+    "category": "Italian",
+    "quantity": 4,
+    "price": 299,
+    "email": "jhondeo@gmail.com",
+    "foodOrigin": "Italy",
+    "ingredients": "Pizza dough, Tomato sauce, Fresh mozzarella cheese, Fresh basil leaves, Olive oil, Salt, Black pepper",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Preheat your oven to its highest temperature (usually around 475-500°F or 245-260°C)."
+      },
+      {
+        "step": 2,
+        "instruction": "Roll out the pizza dough on a floured surface to your desired thickness."
+      },
+      {
+        "step": 3,
+        "instruction": "Transfer the rolled-out dough to a pizza stone or a baking sheet lined with parchment paper."
+      },
+      {
+        "step": 4,
+        "instruction": "Spread a layer of tomato sauce evenly over the pizza dough."
+      },
+      {
+        "step": 5,
+        "instruction": "Tear or slice the fresh mozzarella cheese and distribute it evenly over the sauce."
+      },
+      {
+        "step": 6,
+        "instruction": "Place fresh basil leaves on top of the cheese."
+      },
+      {
+        "step": 7,
+        "instruction": "Drizzle a little olive oil over the pizza."
+      },
+      {
+        "step": 8,
+        "instruction": "Season with a pinch of salt and black pepper to taste."
+      },
+      {
+        "step": 9,
+        "instruction": "Transfer the pizza to the preheated oven and bake for about 10-12 minutes, or until the crust is golden and the cheese is bubbly and slightly browned."
+      },
+      {
+        "step": 10,
+        "instruction": "Remove from the oven and let it cool slightly before slicing and serving."
+      }
+    ],
+    "orderCount": 20,
+    "rating": 4.8
+  },
+  {
+    "name": "Sushi Roll",
+    "image": "https://i.ibb.co/rxPFZ1g/a67d95e8044769cf96d551c0ad09f7f9.jpg",
+    "category": "Japanese",
+    "quantity": 5,
+    "price": 1499,
+    "email": "jhondeo@gmail.com",
+    "foodOrigin": "Japan",
+    "ingredients": "Norwegian seaweed (Nori), Sushi rice, Rice vinegar, Sugar, Salt, Fresh fish (like salmon or tuna), Avocado, Cucumber, Soy sauce, Pickled ginger, Wasabi (optional), Sesame seeds (optional)",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Prepare the sushi rice according to the package instructions. Once cooked, mix in a mixture of rice vinegar, sugar, and salt. Allow it to cool to room temperature."
+      },
+      {
+        "step": 2,
+        "instruction": "Lay a sheet of Nori on a bamboo sushi mat (or a clean dish towel). Moisten your hands with water and spread a thin layer of sushi rice onto the Nori, leaving a small border at the top."
+      },
+      {
+        "step": 3,
+        "instruction": "Place thin strips of fresh fish, avocado, and cucumber in the center of the rice."
+      },
+      {
+        "step": 4,
+        "instruction": "Roll the sushi tightly using the bamboo mat or dish towel, applying gentle pressure as you go. Seal the edge by moistening it with a little water."
+      },
+      {
+        "step": 5,
+        "instruction": "Slice the sushi roll into bite-sized pieces using a sharp knife. Wiping the knife with a damp cloth between cuts will help create clean edges."
+      },
+      {
+        "step": 6,
+        "instruction": "Serve the sushi rolls with soy sauce, pickled ginger, and wasabi. Optionally, sprinkle with sesame seeds for added flavor and texture."
+      }
+    ],
+    "orderCount": 12,
+    "rating": 4.6
+  },
+  {
+    "name": "Caesar Salad",
+    "image": "https://i.ibb.co/807fRjc/Caesar-Salad-Spend-With-Pennies-7.jpg",
+    "category": "Salad",
+    "quantity": 6,
+    "price": 799,
+    "email": "jhondeo@gmail.com",
+    "foodOrigin": "Mexico",
+    "ingredients": "Romaine lettuce, Croutons, Parmesan cheese, Caesar dressing (mayonnaise, anchovy paste, garlic, lemon juice, Dijon mustard, Worcestershire sauce, olive oil, salt, pepper), Grilled chicken (optional)",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Wash and dry the Romaine lettuce leaves. Tear them into bite-sized pieces and place them in a large salad bowl."
+      },
+      {
+        "step": 2,
+        "instruction": "Add the croutons to the bowl with the lettuce."
+      },
+      {
+        "step": 3,
+        "instruction": "Grate or shave Parmesan cheese over the salad, to taste."
+      },
+      {
+        "step": 4,
+        "instruction": "In a separate bowl, prepare the Caesar dressing by whisking together mayonnaise, anchovy paste, minced garlic, lemon juice, Dijon mustard, Worcestershire sauce, olive oil, salt, and pepper."
+      },
+      {
+        "step": 5,
+        "instruction": "Drizzle the Caesar dressing over the salad. Toss the salad to evenly coat the lettuce, croutons, and cheese with the dressing."
+      },
+      {
+        "step": 6,
+        "instruction": "Optionally, add grilled chicken strips on top of the salad for added protein and flavor."
+      },
+      {
+        "step": 7,
+        "instruction": "Serve the Caesar Salad immediately, optionally garnished with extra Parmesan cheese and croutons."
+      }
+    ],
+    "orderCount": 18,
+    "rating": 4.3
+  },
+  {
+    "name": "Beef Tacos",
+    "image": "https://i.ibb.co/D9GkTZX/Beef-Tacos-768x575.jpg",
+    "category": "Mexican",
+    "quantity": 3,
+    "price": 899,
+    "email": "jhondeo@gmail.com",
+    "foodOrigin": "Mexico",
+    "ingredients": "Romaine lettuce, Croutons, Parmesan cheese, Caesar dressing (mayonnaise, anchovy paste, garlic, lemon juice, Dijon mustard, Worcestershire sauce, olive oil, salt, pepper), Grilled chicken (optional)",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Wash and dry the Romaine lettuce leaves. Tear them into bite-sized pieces and place them in a large salad bowl."
+      },
+      {
+        "step": 2,
+        "instruction": "Add the croutons to the bowl with the lettuce."
+      },
+      {
+        "step": 3,
+        "instruction": "Grate or shave Parmesan cheese over the salad, to taste."
+      },
+      {
+        "step": 4,
+        "instruction": "In a separate bowl, prepare the Caesar dressing by whisking together mayonnaise, anchovy paste, minced garlic, lemon juice, Dijon mustard, Worcestershire sauce, olive oil, salt, and pepper."
+      },
+      {
+        "step": 5,
+        "instruction": "Drizzle the Caesar dressing over the salad. Toss the salad to evenly coat the lettuce, croutons, and cheese with the dressing."
+      },
+      {
+        "step": 6,
+        "instruction": "Optionally, add grilled chicken strips on top of the salad for added protein and flavor."
+      },
+      {
+        "step": 7,
+        "instruction": "Serve the Caesar Salad immediately, optionally garnished with extra Parmesan cheese and croutons."
+      }
+    ],
+    "orderCount": 25,
+    "rating": 4.7
+  },
+  {
+    "name": "Pasta Primavera",
+    "image": "https://i.ibb.co/ZN4rkD6/Pasta-Primavera-010.jpg",
+    "category": "Italian",
+    "quantity": 4,
+    "price": 1199,
+    "email": "jhondeo@gmail.com",
+    "foodOrigin": "Italy",
+    "ingredients": "Pasta (such as fettuccine or penne), Olive oil, Garlic, Mixed vegetables (such as bell peppers, broccoli, carrots, peas, zucchini), Heavy cream, Parmesan cheese, Salt, Black pepper, Red pepper flakes (optional), Fresh basil (optional)",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Cook the pasta in a large pot of salted boiling water until al dente. Drain and set aside."
+      },
+      {
+        "step": 2,
+        "instruction": "In a large skillet, heat olive oil over medium heat. Add minced garlic and sauté for about 30 seconds, or until fragrant."
+      },
+      {
+        "step": 3,
+        "instruction": "Add the mixed vegetables to the skillet. Cook, stirring occasionally, until they are tender-crisp and vibrant in color."
+      },
+      {
+        "step": 4,
+        "instruction": "Pour in the heavy cream and let it simmer for a few minutes, until it starts to thicken slightly."
+      },
+      {
+        "step": 5,
+        "instruction": "Add grated Parmesan cheese to the skillet and stir until it's well combined and the sauce is creamy."
+      },
+      {
+        "step": 6,
+        "instruction": "Season with salt, black pepper, and red pepper flakes (if using). Adjust seasoning to taste."
+      },
+      {
+        "step": 7,
+        "instruction": "Return the cooked pasta to the skillet and toss until it is evenly coated with the sauce and vegetables."
+      },
+      {
+        "step": 8,
+        "instruction": "Optional: Tear fresh basil leaves and scatter them over the pasta for added flavor and freshness."
+      },
+      {
+        "step": 9,
+        "instruction": "Serve the Pasta Primavera hot, optionally garnished with extra Parmesan cheese and basil."
+      }
+    ],
+    "orderCount": 14,
+    "rating": 4.4
+  },
+  {
+    "name": "Chicken Curry",
+    "image": "https://i.ibb.co/pjj9H65/Chicken-Curry-3.jpg",
+    "category": "Indian",
+    "quantity": 3,
+    "price": 1299,
+    "email": "jhondeo@gmail.com",
+    "foodOrigin": "India",
+    "ingredients": "Chicken pieces, Onion, Garlic, Ginger, Tomato, Coconut milk, Curry powder, Garam masala, Turmeric powder, Cumin powder, Coriander powder, Chili powder (optional for heat), Vegetable oil, Salt, Fresh cilantro (for garnish, optional)",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Heat vegetable oil in a large skillet or pot over medium heat."
+      },
+      {
+        "step": 2,
+        "instruction": "Add chopped onion and cook until softened and translucent."
+      },
+      {
+        "step": 3,
+        "instruction": "Stir in minced garlic and grated ginger. Cook for another minute until fragrant."
+      },
+      {
+        "step": 4,
+        "instruction": "Add chicken pieces and cook until they are no longer pink on the outside."
+      },
+      {
+        "step": 5,
+        "instruction": "Add curry powder, garam masala, turmeric powder, cumin powder, coriander powder, and chili powder (if using). Stir to coat the chicken evenly with the spices."
+      },
+      {
+        "step": 6,
+        "instruction": "Add diced tomatoes and cook until they start to break down and form a sauce."
+      },
+      {
+        "step": 7,
+        "instruction": "Pour in coconut milk and bring to a gentle simmer. Let it cook for about 15-20 minutes until the chicken is cooked through and the sauce has thickened."
+      },
+      {
+        "step": 8,
+        "instruction": "Season with salt to taste. Adjust the seasoning if needed."
+      },
+      {
+        "step": 9,
+        "instruction": "Optional: Garnish with fresh cilantro before serving."
+      },
+      {
+        "step": 10,
+        "instruction": "Serve the Chicken Curry over rice or with naan bread. Enjoy!"
+      }
+    ],
+    "orderCount": 17,
+    "rating": 4.6
+  },
+  {
+    "name": "Caprese Salad",
+    "image": "https://i.ibb.co/SfKH40d/Caprese-Salad-1a-1.jpg",
+    "category": "Salad",
+    "quantity": 6,
+    "price": 999,
+    "email": "jhondeo@gmail.com",
+    "foodOrigin": "Italy",
+    "ingredients": "Tomatoes, Fresh mozzarella cheese, Fresh basil leaves, Balsamic vinegar, Extra virgin olive oil, Salt, Black pepper",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Slice the tomatoes and fresh mozzarella cheese into approximately ¼-inch thick slices."
+      },
+      {
+        "step": 2,
+        "instruction": "Arrange the tomato and mozzarella slices on a serving platter, alternating and slightly overlapping them."
+      },
+      {
+        "step": 3,
+        "instruction": "Tuck fresh basil leaves in between the tomato and mozzarella slices."
+      },
+      {
+        "step": 4,
+        "instruction": "Drizzle balsamic vinegar and extra virgin olive oil over the salad."
+      },
+      {
+        "step": 5,
+        "instruction": "Season with a pinch of salt and freshly ground black pepper to taste."
+      },
+      {
+        "step": 6,
+        "instruction": "Serve the Caprese Salad immediately and enjoy!"
+      }
+    ],
+    "orderCount": 16,
+    "rating": 4.7
+  },
+  {
+    "name": "Miso Soup",
+    "image": "https://i.ibb.co/m4L5k6c/classic-miso-soup.jpg",
+    "category": "Japanese",
+    "quantity": 5,
+    "price": 699,
+    "email": "jhondeo@gmail.com",
+    "foodOrigin": "Japan",
+    "ingredients": "Tofu, Wakame seaweed, Miso paste, Dashi stock (or water and dashi granules), Green onions, Soy sauce (optional), Mirin (optional)",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Soak wakame seaweed in water for about 5 minutes to rehydrate. Drain and cut into bite-sized pieces."
+      },
+      {
+        "step": 2,
+        "instruction": "Cut tofu into small cubes."
+      },
+      {
+        "step": 3,
+        "instruction": "In a pot, bring dashi stock (or water and dashi granules) to a gentle simmer."
+      },
+      {
+        "step": 4,
+        "instruction": "Add tofu and wakame to the simmering broth. Cook for about 3 minutes until the tofu is heated through."
+      },
+      {
+        "step": 5,
+        "instruction": "In a small bowl, dissolve miso paste in a bit of warm water to form a smooth paste."
+      },
+      {
+        "step": 6,
+        "instruction": "Gradually whisk the miso paste into the soup, being careful not to boil the soup after adding the miso."
+      },
+      {
+        "step": 7,
+        "instruction": "Taste and adjust the flavor by adding soy sauce or mirin if desired."
+      },
+      {
+        "step": 8,
+        "instruction": "Serve the Miso Soup hot, garnished with chopped green onions."
+      }
+    ],
+    "orderCount": 22,
+    "rating": 4.2
+  },
+  {
+    "name": "BBQ Ribs",
+    "image": "https://i.ibb.co/Lt7zKmY/Foil-Wrapped-Baby-Back-Ribs.jpg",
+    "category": "American",
+    "quantity": 4,
+    "price": 1399,
+    "email": "fridayisgreatday@gmail.com",
+    "foodOrigin": "United States",
+    "ingredients": "2 racks of baby back ribs, 1/4 cup brown sugar, 1 tablespoon paprika, 1 tablespoon black pepper, 1 tablespoon salt, 1 tablespoon chili powder, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 teaspoon cayenne pepper (adjust to taste), 1 1/2 cups barbecue sauce",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Preheat your oven to 275°F (135°C)."
+      },
+      {
+        "step": 2,
+        "instruction": "On the back of each rack of ribs, use a knife to loosen the membrane. Then, pull it off."
+      },
+      {
+        "step": 3,
+        "instruction": "In a bowl, mix together the brown sugar, paprika, black pepper, salt, chili powder, garlic powder, onion powder, and cayenne pepper to make the dry rub."
+      },
+      {
+        "step": 4,
+        "instruction": "Rub the spice mixture evenly over both sides of the ribs."
+      },
+      {
+        "step": 5,
+        "instruction": "Wrap each rack of ribs tightly in aluminum foil. Place them on a baking sheet."
+      },
+      {
+        "step": 6,
+        "instruction": "Place the baking sheet in the preheated oven and bake for about 2.5 to 3 hours, or until the meat is tender and starts to pull away from the bones."
+      },
+      {
+        "step": 7,
+        "instruction": "Preheat your grill to medium-high heat."
+      },
+      {
+        "step": 8,
+        "instruction": "Carefully unwrap the ribs and place them on the preheated grill. Brush with barbecue sauce."
+      },
+      {
+        "step": 9,
+        "instruction": "Grill the ribs for about 3-4 minutes per side, or until they are nicely browned and caramelized, brushing with more sauce as needed."
+      },
+      {
+        "step": 10,
+        "instruction": "Remove the ribs from the grill and let them rest for a few minutes before slicing."
+      },
+      {
+        "step": 11,
+        "instruction": "Serve the BBQ ribs with extra barbecue sauce on the side. Enjoy!"
+      }
+    ],
+    "orderCount": 19,
+    "rating": 5
+  },
+  {
+    "name": "Greek Salad",
+    "image": "https://i.ibb.co/Htb0sBN/greek-salad-1.jpg",
+    "category": "Salad",
+    "quantity": 6,
+    "price": 899,
+    "email": "fridayisgreatday@gmail.com",
+    "foodOrigin": "Greece",
+    "ingredients": "Romaine lettuce, Cucumbers, Tomatoes, Red onion, Kalamata olives, Feta cheese, Olive oil, Lemon juice, Dried oregano, Salt, Black pepper",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Chop the romaine lettuce and place it in a large salad bowl."
+      },
+      {
+        "step": 2,
+        "instruction": "Slice the cucumbers and tomatoes, then add them to the bowl with the lettuce."
+      },
+      {
+        "step": 3,
+        "instruction": "Thinly slice the red onion and add it to the salad."
+      },
+      {
+        "step": 4,
+        "instruction": "Add the Kalamata olives to the salad. You can leave them whole or pit and chop them if desired."
+      },
+      {
+        "step": 5,
+        "instruction": "Crumble the feta cheese over the top of the salad."
+      },
+      {
+        "step": 6,
+        "instruction": "In a small bowl, whisk together olive oil, lemon juice, dried oregano, salt, and black pepper to make the dressing."
+      },
+      {
+        "step": 7,
+        "instruction": "Drizzle the dressing over the salad and toss gently to combine, ensuring all ingredients are evenly coated."
+      },
+      {
+        "step": 8,
+        "instruction": "Serve the Greek Salad immediately, optionally garnished with extra feta cheese and a sprinkle of dried oregano."
+      }
+    ],
+    "orderCount": 13,
+    "rating": 4.4
+  },
+  {
+    "name": "Teriyaki Salmon",
+    "image": "https://i.ibb.co/F6cN1Dd/200118-teriyaki-salmon-5801-4.jpg",
+    "category": "Japanese",
+    "quantity": 5,
+    "price": 1599,
+    "email": "fridayisgreatday@gmail.com",
+    "foodOrigin": "Japan",
+    "ingredients": "Salmon fillets, Soy sauce, Mirin, Brown sugar, Fresh ginger, Garlic cloves, Sesame oil, Green onions (optional, for garnish), Sesame seeds (optional, for garnish)",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "In a small saucepan, combine soy sauce, mirin, brown sugar, grated ginger, minced garlic, and sesame oil. Heat over medium heat, stirring occasionally, until the sugar is fully dissolved. Allow the teriyaki sauce to cool."
+      },
+      {
+        "step": 2,
+        "instruction": "Place the salmon fillets in a shallow dish or a resealable plastic bag. Pour half of the teriyaki sauce over the salmon, ensuring each fillet is well coated. Marinate in the refrigerator for at least 30 minutes, or up to 2 hours."
+      },
+      {
+        "step": 3,
+        "instruction": "Preheat your grill to medium-high heat. Make sure the grates are clean and lightly oiled to prevent sticking."
+      },
+      {
+        "step": 4,
+        "instruction": "Remove the salmon from the marinade and discard the used marinade."
+      },
+      {
+        "step": 5,
+        "instruction": "Place the salmon fillets on the preheated grill, skin-side down. Cook for about 4-5 minutes, or until the salmon easily releases from the grill and has nice grill marks."
+      },
+      {
+        "step": 6,
+        "instruction": "Flip the salmon and brush with the reserved teriyaki sauce. Continue grilling for another 4-5 minutes, or until the salmon is cooked to your desired level of doneness."
+      },
+      {
+        "step": 7,
+        "instruction": "Optional: Garnish the teriyaki salmon with sliced green onions and sesame seeds for added flavor and presentation."
+      },
+      {
+        "step": 8,
+        "instruction": "Serve the Teriyaki Salmon hot and enjoy!"
+      }
+    ],
+    "orderCount": 21,
+    "rating": 4.6
+  },
+  {
+    "name": "Beef Broccoli Fry",
+    "image": "https://i.ibb.co/QFHkSnN/220503-Beef-And-Broccoli-550.jpg",
+    "category": "Chinese",
+    "quantity": 3,
+    "price": 1199,
+    "email": "fridayisgreatday@gmail.com",
+    "foodOrigin": "China",
+    "ingredients": "Salmon fillets, Soy sauce, Mirin, Brown sugar, Fresh ginger, Garlic cloves, Sesame oil, Green onions (optional, for garnish), Sesame seeds (optional, for garnish)",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "In a small saucepan, combine soy sauce, mirin, brown sugar, grated ginger, minced garlic, and sesame oil. Heat over medium heat, stirring occasionally, until the sugar is fully dissolved. Allow the teriyaki sauce to cool."
+      },
+      {
+        "step": 2,
+        "instruction": "Place the salmon fillets in a shallow dish or a resealable plastic bag. Pour half of the teriyaki sauce over the salmon, ensuring each fillet is well coated. Marinate in the refrigerator for at least 30 minutes, or up to 2 hours."
+      },
+      {
+        "step": 3,
+        "instruction": "Preheat your grill to medium-high heat. Make sure the grates are clean and lightly oiled to prevent sticking."
+      },
+      {
+        "step": 4,
+        "instruction": "Remove the salmon from the marinade and discard the used marinade."
+      },
+      {
+        "step": 5,
+        "instruction": "Place the salmon fillets on the preheated grill, skin-side down. Cook for about 4-5 minutes, or until the salmon easily releases from the grill and has nice grill marks."
+      },
+      {
+        "step": 6,
+        "instruction": "Flip the salmon and brush with the reserved teriyaki sauce. Continue grilling for another 4-5 minutes, or until the salmon is cooked to your desired level of doneness."
+      },
+      {
+        "step": 7,
+        "instruction": "Optional: Garnish the teriyaki salmon with sliced green onions and sesame seeds for added flavor and presentation."
+      },
+      {
+        "step": 8,
+        "instruction": "Serve the Teriyaki Salmon hot and enjoy!"
+      }
+    ],
+    "orderCount": 16,
+    "rating": 4.3
+  },
+  {
+    "name": "Margherita Pizza",
+    "image": "https://i.ibb.co/7Q2SM1T/20220211142754-margherita-9920.jpg",
+    "category": "Italian",
+    "quantity": 4,
+    "price": 999,
+    "email": "fridayisgreatday@gmail.com",
+    "foodOrigin": "Italy",
+    "ingredients": "Pizza dough, Tomato sauce, Fresh mozzarella cheese, Fresh basil leaves, Olive oil, Salt, Black pepper",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Preheat your oven to its highest temperature (usually around 475-500°F or 245-260°C)."
+      },
+      {
+        "step": 2,
+        "instruction": "Roll out the pizza dough on a floured surface to your desired thickness."
+      },
+      {
+        "step": 3,
+        "instruction": "Transfer the rolled-out dough to a pizza stone or a baking sheet lined with parchment paper."
+      },
+      {
+        "step": 4,
+        "instruction": "Spread a layer of tomato sauce evenly over the pizza dough."
+      },
+      {
+        "step": 5,
+        "instruction": "Tear or slice the fresh mozzarella cheese and distribute it evenly over the sauce."
+      },
+      {
+        "step": 6,
+        "instruction": "Place fresh basil leaves on top of the cheese."
+      },
+      {
+        "step": 7,
+        "instruction": "Drizzle a little olive oil over the pizza."
+      },
+      {
+        "step": 8,
+        "instruction": "Season with a pinch of salt and black pepper to taste."
+      },
+      {
+        "step": 9,
+        "instruction": "Transfer the pizza to the preheated oven and bake for about 10-12 minutes, or until the crust is golden and the cheese is bubbly and slightly browned."
+      },
+      {
+        "step": 10,
+        "instruction": "Remove from the oven and let it cool slightly before slicing and serving."
+      }
+    ],
+    "orderCount": 18,
+    "rating": 4.8
+  },
+  {
+    "name": "Chicken Teriyaki",
+    "image": "https://i.ibb.co/SXHqyLn/teriyakichicken.jpg",
+    "category": "Japanese",
+    "quantity": 3,
+    "price": 1299,
+    "email": "fridayisgreatday@gmail.com",
+    "foodOrigin": "Japan",
+    "ingredients": "Boneless, skinless chicken thighs or breasts, Soy sauce, Mirin, Brown sugar, Garlic cloves, Ginger, Cornstarch, Vegetable oil, Sesame seeds (optional, for garnish), Sliced green onions (optional, for garnish), Steamed rice (for serving)",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Slice the boneless, skinless chicken thighs or breasts into bite-sized pieces."
+      },
+      {
+        "step": 2,
+        "instruction": "In a bowl, combine soy sauce, mirin, brown sugar, minced garlic, grated ginger, and cornstarch to make the teriyaki sauce."
+      },
+      {
+        "step": 3,
+        "instruction": "Heat vegetable oil in a large skillet or wok over medium-high heat."
+      },
+      {
+        "step": 4,
+        "instruction": "Add the chicken pieces to the hot skillet. Cook until they are no longer pink in the center and have a nice golden sear on the outside."
+      },
+      {
+        "step": 5,
+        "instruction": "Pour the teriyaki sauce over the cooked chicken. Stir and cook for an additional 2-3 minutes, or until the sauce thickens and coats the chicken evenly."
+      },
+      {
+        "step": 6,
+        "instruction": "Optional: Sprinkle sesame seeds and sliced green onions over the chicken for added flavor and presentation."
+      },
+      {
+        "step": 7,
+        "instruction": "Serve the Chicken Teriyaki hot over steamed rice. Enjoy!"
+      }
+    ],
+    "orderCount": 14,
+    "rating": 5
+  },
+  {
+    "name": "Fired Rice",
+    "image": "https://i.ibb.co/jJCWc2g/beeffriedrice-13-540x720.jpg",
+    "category": "Bangladeshi",
+    "quantity": 2,
+    "price": 1099,
+    "email": "fridayisgreatday@gmail.com",
+    "foodOrigin": "Italy",
+    "ingredients": "Cooked rice (preferably day-old), Vegetable oil, Onion, Carrots, Peas, Garlic cloves, Eggs, Soy sauce, Sesame oil (optional), Green onions (optional, for garnish)",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "If you're using freshly cooked rice, spread it out on a baking sheet and let it cool for a bit. Day-old rice works best for fried rice."
+      },
+      {
+        "step": 2,
+        "instruction": "Heat vegetable oil in a large skillet or wok over medium-high heat."
+      },
+      {
+        "step": 3,
+        "instruction": "Add finely chopped onion, diced carrots, and peas to the hot oil. Stir-fry for a few minutes until the vegetables are tender-crisp."
+      },
+      {
+        "step": 4,
+        "instruction": "Push the vegetables to one side of the pan and add minced garlic to the other side. Cook for about 30 seconds, or until fragrant."
+      },
+      {
+        "step": 5,
+        "instruction": "Push the vegetables and garlic to one side, then crack the eggs into the pan. Scramble the eggs until they are fully cooked."
+      },
+      {
+        "step": 6,
+        "instruction": "Add the cooked rice to the skillet. Use a spatula to break up any clumps and evenly distribute the ingredients."
+      },
+      {
+        "step": 7,
+        "instruction": "Pour soy sauce over the rice and stir-fry for a few more minutes until everything is well combined and heated through."
+      },
+      {
+        "step": 8,
+        "instruction": "Optional: Drizzle a bit of sesame oil over the fried rice for added flavor."
+      },
+      {
+        "step": 9,
+        "instruction": "Garnish with sliced green onions if desired, and serve hot."
+      }
+    ],
+    "orderCount": 20,
+    "rating": 4.4
+  },
+  {
+    "name": "Tomato Basil",
+    "image": "https://i.ibb.co/ZhvV8NW/Tomato-Basil-Bruschetta-9.jpg",
+    "category": "Italian",
+    "quantity": 3,
+    "price": 899,
+    "email": "fridayisgreatday@gmail.com",
+    "foodOrigin": "Italy",
+    "ingredients": "Tomatoes, Fresh basil leaves, Garlic cloves, Balsamic vinegar, Extra virgin olive oil, Salt, Black pepper, Baguette or Italian bread",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Dice the tomatoes and place them in a mixing bowl."
+      },
+      {
+        "step": 2,
+        "instruction": "Chop the fresh basil leaves and add them to the bowl with the tomatoes."
+      },
+      {
+        "step": 3,
+        "instruction": "Finely mince the garlic cloves and add them to the mixture."
+      },
+      {
+        "step": 4,
+        "instruction": "Drizzle balsamic vinegar and extra virgin olive oil over the tomato mixture."
+      },
+      {
+        "step": 5,
+        "instruction": "Season with a pinch of salt and freshly ground black pepper to taste. Mix well to combine all the ingredients."
+      },
+      {
+        "step": 6,
+        "instruction": "Slice the baguette or Italian bread into thin rounds. You can toast them in the oven or on a grill for added crunch, if desired."
+      },
+      {
+        "step": 7,
+        "instruction": "Spoon the tomato basil mixture onto each bread slice, ensuring an even distribution of the mixture."
+      },
+      {
+        "step": 8,
+        "instruction": "Optional: Drizzle a bit more olive oil over the bruschetta for added flavor and shine."
+      },
+      {
+        "step": 9,
+        "instruction": "Serve the Tomato Basil Bruschetta immediately. Enjoy!"
+      }
+    ],
+    "orderCount": 15,
+    "rating": 4.7
+  },
+  {
+    "name": "Pad Thai",
+    "image": "https://i.ibb.co/xmHpNZF/vegan-pad-thai-2.jpg",
+    "category": "Thai",
+    "quantity": 5,
+    "price": 1399,
+    "email": "fridayisgreatday@gmail.com",
+    "foodOrigin": "Thailand",
+    "ingredients": "Rice noodles, Shrimp (or tofu for vegetarian option), Bean sprouts, Eggs, Green onions, Garlic cloves, Lime, Peanuts, Vegetable oil, Fish sauce (or soy sauce for vegetarian option), Tamarind paste (or lime juice), Sugar, Red chili flakes (optional)",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Soak the rice noodles in warm water for about 30 minutes, or until they are soft but still firm to the touch. Drain and set aside."
+      },
+      {
+        "step": 2,
+        "instruction": "If using shrimp, peel and devein them. If using tofu, cut it into small cubes."
+      },
+      {
+        "step": 3,
+        "instruction": "In a small bowl, mix together fish sauce (or soy sauce), tamarind paste (or lime juice), and sugar to make the sauce. Adjust to your taste preference."
+      },
+      {
+        "step": 4,
+        "instruction": "Heat vegetable oil in a large skillet or wok over medium-high heat."
+      },
+      {
+        "step": 5,
+        "instruction": "Add minced garlic and cook for about 30 seconds, or until fragrant."
+      },
+      {
+        "step": 6,
+        "instruction": "Add shrimp (or tofu) and stir-fry until they are cooked through and slightly caramelized."
+      },
+      {
+        "step": 7,
+        "instruction": "Push the shrimp (or tofu) to one side of the pan and crack the eggs into the other side. Scramble the eggs until they are fully cooked."
+      },
+      {
+        "step": 8,
+        "instruction": "Add the soaked rice noodles to the pan and pour the sauce over them. Toss everything together until the noodles are evenly coated with the sauce."
+      },
+      {
+        "step": 9,
+        "instruction": "Stir in bean sprouts and sliced green onions. Cook for an additional 1-2 minutes, or until the bean sprouts are slightly wilted."
+      },
+      {
+        "step": 10,
+        "instruction": "Squeeze lime juice over the Pad Thai and toss to combine. Adjust seasoning to your preference."
+      },
+      {
+        "step": 11,
+        "instruction": "Optional: Sprinkle chopped peanuts and red chili flakes for added flavor and garnish."
+      },
+      {
+        "step": 12,
+        "instruction": "Serve the Pad Thai hot. Enjoy!"
+      }
+    ],
+    "orderCount": 19,
+    "rating": 4.6
+  },
+  {
+    "name": "Cesar Salad",
+    "image": "https://i.ibb.co/1Mtbbmd/Caesar-Pasta-Salad-Recipe-5.jpg",
+    "category": "Salad",
+    "quantity": 6,
+    "price": 799,
+    "email": "fridayisgreatday@gmail.com",
+    "foodOrigin": "Mexico",
+    "ingredients": "Romaine lettuce, Caesar dressing, Croutons, Grated Parmesan cheese, Lemon juice, Dijon mustard, Worcestershire sauce, Garlic clove, Olive oil, Salt, Black pepper, Anchovy fillets (optional)",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Wash and dry the romaine lettuce leaves. Tear them into bite-sized pieces and place them in a large salad bowl."
+      },
+      {
+        "step": 2,
+        "instruction": "In a small bowl, whisk together Caesar dressing, lemon juice, Dijon mustard, Worcestershire sauce, minced garlic, salt, and black pepper to make the dressing."
+      },
+      {
+        "step": 3,
+        "instruction": "Pour the dressing over the lettuce and toss until the leaves are evenly coated."
+      },
+      {
+        "step": 4,
+        "instruction": "Add croutons and grated Parmesan cheese to the salad. Toss again to distribute them evenly."
+      },
+      {
+        "step": 5,
+        "instruction": "Optional: For a more traditional Caesar salad, you can add anchovy fillets to the dressing or place them on top of the salad."
+      },
+      {
+        "step": 6,
+        "instruction": "Serve the Caesar Salad immediately as a side dish or add grilled chicken or shrimp for a main course option. Enjoy!"
+      }
+    ],
+    "orderCount": 16,
+    "rating": 4.3
+  },
+  {
+    "name": "Shrimp Broccoli Alfredo",
+    "image": "https://i.ibb.co/jym9Bvj/Broccoli-Shrimp-Alfredo-TIMG.jpg",
+    "category": "Italian",
+    "quantity": 4,
+    "price": 1199,
+    "email": "fridayisgreatday@gmail.com",
+    "foodOrigin": "Italy",
+    "ingredients": "Shrimp, Broccoli florets, Fettuccine pasta, Heavy cream, Parmesan cheese, Butter, Garlic cloves, Salt, Black pepper, Red pepper flakes (optional, for some heat)",
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Cook the fettuccine pasta according to the package instructions in a large pot of salted boiling water. Add the broccoli florets to the boiling pasta water for the last 2-3 minutes of cooking. Drain and set aside."
+      },
+      {
+        "step": 2,
+        "instruction": "In a large skillet, melt the butter over medium heat. Add minced garlic and cook for about 30 seconds, or until fragrant."
+      },
+      {
+        "step": 3,
+        "instruction": "Add the shrimp to the skillet and cook for 2-3 minutes per side, or until they are pink and cooked through. Remove the shrimp from the skillet and set them aside."
+      },
+      {
+        "step": 4,
+        "instruction": "In the same skillet, pour in the heavy cream and bring it to a gentle simmer."
+      },
+      {
+        "step": 5,
+        "instruction": "Gradually whisk in the grated Parmesan cheese, stirring constantly, until the sauce is smooth and creamy."
+      },
+      {
+        "step": 6,
+        "instruction": "Season the sauce with salt, black pepper, and red pepper flakes (if using), adjusting to taste."
+      },
+      {
+        "step": 7,
+        "instruction": "Return the cooked pasta and broccoli to the skillet, tossing to coat them evenly with the Alfredo sauce."
+      },
+      {
+        "step": 8,
+        "instruction": "Add the cooked shrimp back to the skillet and gently toss to combine. Cook for an additional 2-3 minutes, or until everything is heated through."
+      },
+      {
+        "step": 9,
+        "instruction": "Serve the Shrimp and Broccoli Alfredo hot, garnished with additional grated Parmesan cheese if desired. Enjoy!"
+      }
+    ],
+    "orderCount": 14,
+    "rating": 5
+  }
+]

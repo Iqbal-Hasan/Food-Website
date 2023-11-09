@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+header {
+  font-family: "Sofia Sans Condensed", sans-serif;
+}
+
+section,footer{
+  font-family: "Montserrat", sans-serif;
+}
+
+@media only screen and (min-width: 403px) {
+  .tableParent{
+  overflow-x: hidden;
+  }
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 700px;
+  margin: 0px auto;
+}
+
+td, th {
+  border: 2px solid #a5a5a5;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
